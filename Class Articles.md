@@ -1,6 +1,6 @@
 Class Articles
 ---
-**newest at the top
+*(Newest at the top)*
 
 + [A cyber-skills shortage means students are being recruited to fight off hackers](https://www.technologyreview.com/s/612309/a-cyber-skills-shortage-means-students-are-being-recruited-to-fight-off-hackers/)
 + [3 ways YouTube is steering the car buyer’s path to purchase](https://www.thinkwithgoogle.com/advertising-channels/video/automotive-marketing-videos/)
