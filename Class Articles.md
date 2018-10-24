@@ -2,6 +2,7 @@ BTT1O Class Articles
 ---
 *(Newest at the top)*
 
++ [Custom-made smart glasses pick up where Google Glass left off](https://www.engadget.com/2018/10/23/north-focals-smart-glasses-hands-on/)
 + [A cyber-skills shortage means students are being recruited to fight off hackers](https://www.technologyreview.com/s/612309/a-cyber-skills-shortage-means-students-are-being-recruited-to-fight-off-hackers/)
 + [3 ways YouTube is steering the car buyer’s path to purchase](https://www.thinkwithgoogle.com/advertising-channels/video/automotive-marketing-videos/)
 + [Skill Up Your Career For The New AI Economy](https://www.forbes.com/sites/cognitiveworld/2018/09/19/skill-up-your-career-for-the-new-ai-economy/#5c10a6da52c4)
